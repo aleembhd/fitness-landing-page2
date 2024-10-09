@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
         </div>
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="https://source.unsplash.com/featured/?fitness,transformation"
+            src="https://i.ibb.co/q1Zkr2B/transformation.jpg"
             alt="Before and after transformation"
             className="rounded-lg shadow-lg"
           />
