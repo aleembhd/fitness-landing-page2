@@ -4,14 +4,14 @@ const testimonials = [
   {
     name: 'Sarah M.',
     quote: "This program changed my life! I've lost 30 pounds and feel amazing.",
-    before: 'https://source.unsplash.com/featured/?fitness,before',
-    after: 'https://source.unsplash.com/featured/?fitness,after'
+    before: 'https://i.ibb.co/q1Zkr2B/transformation.jpg',
+    // after: 'https://source.unsplash.com/featured/?fitness,after'
   },
   {
     name: 'John D.',
     quote: "The personalized approach really made the difference. I'm stronger than ever!",
-    before: 'https://source.unsplash.com/featured/?workout,before',
-    after: 'https://source.unsplash.com/featured/?workout,after'
+    before: 'https://i.ibb.co/q1Zkr2B/transformation.jpg',
+    // after: 'https://source.unsplash.com/featured/?workout,after'
   },
 ];
 
