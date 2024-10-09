@@ -7,7 +7,7 @@ const AboutMe: React.FC = () => {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img
-            src="https://ibb.co/dKhG5HB"
+            src="https://i.ibb.co/q1Zkr2B/transformation.jpg"
             alt="Fitness Coach"
             className="rounded-lg shadow-lg"
           />
