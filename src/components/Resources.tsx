@@ -3,9 +3,9 @@ import { Download } from 'lucide-react';
 import { triggerConfetti } from '../utils/confetti';
 
 const resources = [
-  { title: 'Beginner Workout Plan', image: 'https://source.unsplash.com/featured/?workout,beginner', pdf: '/path/to/beginner-workout.pdf' },
-  { title: 'Healthy Meal Planner', image: 'https://source.unsplash.com/featured/?healthy,meal', pdf: '/path/to/meal-planner.pdf' },
-  { title: 'Home Exercise Guide', image: 'https://source.unsplash.com/featured/?home,exercise', pdf: '/path/to/home-exercise.pdf' },
+  { title: 'Beginner Workout Plan', image: 'https://i.ibb.co/2q0qMX3/diet.jpg', pdf: 'https://drive.google.com/file/d/1PBsv7uKzPoyaO80qCT4QV3fau6mezEAe/view?usp=drive_link ' },
+  { title: 'Healthy Meal Planner', image: 'https://i.ibb.co/2q0qMX3/diet.jpg', pdf: 'https://drive.google.com/file/d/1PBsv7uKzPoyaO80qCT4QV3fau6mezEAe/view?usp=drive_link ' },
+  { title: 'Home Exercise Guide', image: 'https://i.ibb.co/2q0qMX3/diet.jpg', pdf: 'https://drive.google.com/file/d/1PBsv7uKzPoyaO80qCT4QV3fau6mezEAe/view?usp=drive_link ' },
 ];
 
 const Resources: React.FC = () => {
